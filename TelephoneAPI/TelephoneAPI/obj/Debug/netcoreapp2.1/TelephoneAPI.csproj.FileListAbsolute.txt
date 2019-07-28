@@ -1,0 +1,14 @@
+C:\Users\ADRIÁN\source\repos\TelephoneAPI\TelephoneAPI\bin\Debug\netcoreapp2.1\TelephoneAPI.deps.json
+C:\Users\ADRIÁN\source\repos\TelephoneAPI\TelephoneAPI\bin\Debug\netcoreapp2.1\TelephoneAPI.runtimeconfig.json
+C:\Users\ADRIÁN\source\repos\TelephoneAPI\TelephoneAPI\bin\Debug\netcoreapp2.1\TelephoneAPI.runtimeconfig.dev.json
+C:\Users\ADRIÁN\source\repos\TelephoneAPI\TelephoneAPI\bin\Debug\netcoreapp2.1\TelephoneAPI.dll
+C:\Users\ADRIÁN\source\repos\TelephoneAPI\TelephoneAPI\bin\Debug\netcoreapp2.1\TelephoneAPI.pdb
+C:\Users\ADRIÁN\source\repos\TelephoneAPI\TelephoneAPI\obj\Debug\netcoreapp2.1\TelephoneAPI.csprojAssemblyReference.cache
+C:\Users\ADRIÁN\source\repos\TelephoneAPI\TelephoneAPI\obj\Debug\netcoreapp2.1\TelephoneAPI.csproj.CoreCompileInputs.cache
+C:\Users\ADRIÁN\source\repos\TelephoneAPI\TelephoneAPI\obj\Debug\netcoreapp2.1\TelephoneAPI.RazorAssemblyInfo.cache
+C:\Users\ADRIÁN\source\repos\TelephoneAPI\TelephoneAPI\obj\Debug\netcoreapp2.1\TelephoneAPI.RazorAssemblyInfo.cs
+C:\Users\ADRIÁN\source\repos\TelephoneAPI\TelephoneAPI\obj\Debug\netcoreapp2.1\TelephoneAPI.AssemblyInfoInputs.cache
+C:\Users\ADRIÁN\source\repos\TelephoneAPI\TelephoneAPI\obj\Debug\netcoreapp2.1\TelephoneAPI.AssemblyInfo.cs
+C:\Users\ADRIÁN\source\repos\TelephoneAPI\TelephoneAPI\obj\Debug\netcoreapp2.1\TelephoneAPI.RazorTargetAssemblyInfo.cache
+C:\Users\ADRIÁN\source\repos\TelephoneAPI\TelephoneAPI\obj\Debug\netcoreapp2.1\TelephoneAPI.dll
+C:\Users\ADRIÁN\source\repos\TelephoneAPI\TelephoneAPI\obj\Debug\netcoreapp2.1\TelephoneAPI.pdb

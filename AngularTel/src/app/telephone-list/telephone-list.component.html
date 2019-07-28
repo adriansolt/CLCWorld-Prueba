@@ -1,0 +1,15 @@
+<div class="container mt-5">
+  <h1>Telephone List</h1>
+  <div class="row">
+    <div *ngFor="let tel of telephones" class="col-3">
+      <div class="list-group-item list-group-item-action text-center my-3 py-5">
+        <div><h3>{{ tel.number }}</h3></div>
+        <a
+          [routerLink]="['/telephones', tel.id]"
+          >Click for more details</a
+        >
+      </div>
+    </div>
+  </div>
+
+</div>
